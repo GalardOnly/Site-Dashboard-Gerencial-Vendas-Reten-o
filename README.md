@@ -1,10 +1,10 @@
-# 📊 Site Dashboard Gerencial: Vendas e Retenção (PI3)
+#  Site Dashboard Gerencial: Vendas e Retenção (PI3)
 
 Este repositório contém o código-fonte e os dados utilizados no desenvolvimento de um Dashboard Gerencial focado na análise de vendas e retenção de clientes (Churn).
 
 O projeto foi desenvolvido em **Python**, processando bases de dados para gerar insights visuais sobre a performance comercial e indicadores de cancelamento.
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 * **Análise de Vendas:** Visualização de indicadores de performance comercial baseada na `Base De Dados Limpa.csv`.
 * **Análise de Churn:** Monitoramento de taxas de retenção e cancelamento de clientes utilizando a `analise_churn_processada.csv`.
@@ -18,13 +18,13 @@ O projeto foi desenvolvido em **Python**, processando bases de dados para gerar 
 * `requirements.txt`: Lista de bibliotecas e dependências necessárias para rodar o projeto.
 * `.devcontainer/`: Configurações para desenvolvimento em container (Docker/VS Code).
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * **Linguagem:** Python
 * **Bibliotecas:** (Provavelmente pandas, numpy, e a biblioteca de dashboard - *Ex: Streamlit, Dash ou Plotly*)
 * **Ambiente:** Suporte a DevContainers.
 
-## 📦 Como Executar o Projeto localmente
+##  Como Executar o Projeto localmente
 
 Para rodar este projeto na sua máquina, siga os passos abaixo:
 
@@ -55,7 +55,7 @@ Para rodar este projeto na sua máquina, siga os passos abaixo:
     python PI3.py
     ```
 
-## 🤝 Autores
+##  Autores
 
 * **GalardOnly** - *Desenvolvimento e Análise*
 
